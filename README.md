@@ -1,13 +1,13 @@
-<h1 align="center">Salut 👋 Moi c'est Latifa Ouamou</h1>
+<h1 align="center">Salut Moi c'est Latifa Ouamou</h1>
 <h3 align="center">Développeuse Full-Stack | Laravel • React.js • PHP</h3>
 
 ---
 
-## 👩‍💻 À propos de moi
+##  À propos de moi
 - 💻 Développeuse web Full-Stack passionnée par la création d’applications modernes
-- 🚀 Spécialisée en PHP, Laravel et React.js
-- 🌱 En amélioration continue en développement backend et architecture web
-- 🎯 Ouverte aux opportunités de stage et postes Junior
+-  Spécialisée en PHP, Laravel et React.js
+-  En amélioration continue en développement backend et architecture web
+-  Ouverte aux opportunités de stage et postes Junior
 - 📍 Casablanca, Maroc
 
 ---
