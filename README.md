@@ -42,10 +42,4 @@
 📧 latifaouamou4444@gmail.com
 
 ---
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LATIFA-ouamou&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LATIFA-ouamou&layout=compact)
-
 ⭐ N'hésitez pas à explorer mes projets !
